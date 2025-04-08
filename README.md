@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Internet Lucrativa - Página Oficial</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #0F2027, #203A43, #2C5364);
+      color: #fff;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #00FFD1;
+    }
+    h2 {
+      color: #FFE600;
+      font-size: 1.5em;
+    }
+    p {
+      line-height: 1.6;
+      margin: 15px 0;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #00FFD1;
+      color: #000;
+      padding: 15px 25px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 25px;
+      transition: background 0.3s;
+    }
+    .cta-button:hover {
+      background-color: #00c6a3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Descubra Como Ganhar Dinheiro na Internet Usando Apenas o Celular</h1>
+    <h2>O guia completo para iniciantes começarem a lucrar ainda hoje!</h2>
+
+    <p>Com o <strong>e-book "Internet Lucrativa"</strong>, você vai aprender passo a passo como transformar seu celular em uma fonte de renda diária, mesmo que esteja começando do absoluto zero.</p>
+
+    <ul>
+      <li>Estratégias simples e eficazes para vender online</li>
+      <li>Ferramentas gratuitas para turbinar suas vendas</li>
+      <li>Erros comuns que você deve evitar</li>
+      <li>Conteúdo direto ao ponto, sem enrolação</li>
+    </ul>
+
+    <h2>Para quem é esse e-book?</h2>
+    <p>Para iniciantes, estudantes, desempregados, ou qualquer pessoa que queira ganhar dinheiro com liberdade, usando apenas o celular e internet.</p>
+
+    <a class="cta-button" href="https://pay.kiwify.com.br/lOgfZyg" target="_blank">Compre Agora e Receba na Hora (Pix)</a>
+
+    <h2>Sobre o Autor</h2>
+    <p><strong>Ariel</strong> é especialista em tecnologia e marketing digital. Criou esse material exclusivo para ajudar iniciantes a conquistar uma renda online de verdade, com um método direto e prático.</p>
+  </div>
+</body>
+</html>
+
+
